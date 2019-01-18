@@ -1,2 +1,1 @@
-# Dietly
-Fitness meal delivery application
+# MainProject
